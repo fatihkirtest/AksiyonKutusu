@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="oyun_alim_takas">
+</Property><Property Name="Solution File" Value="D:\Aksiyonkutusu_Proje\oyun_alim_takas.sln">
+</Property><Property Name="User Options File" Value="D:\Aksiyonkutusu_Proje\oyun_alim_takas.suo">
+</Property><Property Name="Date" Value="26 Ocak 2014 Pazar">
+</Property><Property Name="Time" Value="15:33">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="oyun_alim_takas.sln" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas.sln">
+</Event><Event ErrorLevel="0" Project="" Source="oyun_alim_takas.suo" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas.suo">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\oyun_alim_takas.csproj" Description="Project file successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\oyun_alim_takas.csproj">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\bilgi.cs" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\bilgi.cs">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Form1.cs" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Form1.cs">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Form1.Designer.cs" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Form2.cs" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Form2.cs">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Form2.Designer.cs" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Form3.cs" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Form3.cs">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Form3.Designer.cs" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Form4.cs" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Form4.cs">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Form4.Designer.cs" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Form4.Designer.cs">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Form5.cs" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Form5.cs">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Form5.Designer.cs" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Form5.Designer.cs">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\masterDataSet.Designer.cs" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\masterDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Program.cs" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Program.cs">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\proje1DataSet.Designer.cs" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\proje1DataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\app.config" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\app.config">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\masterDataSet.xsc" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\masterDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\masterDataSet.xsd" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\masterDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\masterDataSet.xss" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\masterDataSet.xss">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\proje1DataSet.xsc" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\proje1DataSet.xsc">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\proje1DataSet.xsd" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\proje1DataSet.xsd">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\proje1DataSet.xss" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\proje1DataSet.xss">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Properties\Settings.settings" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Resources\4363017-1322860610292.png" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Resources\4363017-1322860610292.png">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Form1.resx" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Form1.resx">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Form2.resx" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Form2.resx">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Form3.resx" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Form3.resx">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Form4.resx" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Form4.resx">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Form5.resx" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Form5.resx">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\Properties\Resources.resx" Description="File successfully backed up as D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\oyun_alim_takas.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="oyun_alim_takas" Source="oyun_alim_takas\oyun_alim_takas.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="oyun_alim_takas.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="oyun_alim_takas.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="oyun_alim_takas" Source="oyun_alim_takas\oyun_alim_takas.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,14 @@
+D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\bin\Debug\oyun_alim_takas.exe.config
+D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\bin\Debug\oyun_alim_takas.exe
+D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\bin\Debug\oyun_alim_takas.pdb
+D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\obj\Debug\oyun_alim_takas.csprojAssemblyReference.cache
+D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\obj\Debug\oyun_alim_takas.Form1.resources
+D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\obj\Debug\oyun_alim_takas.Form2.resources
+D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\obj\Debug\oyun_alim_takas.Form3.resources
+D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\obj\Debug\oyun_alim_takas.Form4.resources
+D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\obj\Debug\oyun_alim_takas.Form5.resources
+D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\obj\Debug\oyun_alim_takas.Properties.Resources.resources
+D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\obj\Debug\oyun_alim_takas.csproj.GenerateResource.cache
+D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\obj\Debug\oyun_alim_takas.csproj.CoreCompileInputs.cache
+D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\obj\Debug\oyun_alim_takas.exe
+D:\Aksiyonkutusu_Proje\Backup\oyun_alim_takas\obj\Debug\oyun_alim_takas.pdb
